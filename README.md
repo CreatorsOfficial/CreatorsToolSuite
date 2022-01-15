@@ -9,6 +9,7 @@ here are some images
 ![image](https://user-images.githubusercontent.com/97736251/149509826-446def2e-c5b5-437c-bccf-f7961ec22d34.png)
 ![image](https://user-images.githubusercontent.com/97736251/149509850-e8d77d60-045e-4e29-991a-aa8ed2348860.png)
 
-Tho i have not provided the complete project so that i could keep it a secret for how did i make a texture import export feature in android devices
+This is the project of beta v1
+I have included texture import feature now
 
 Enjoy!!!
